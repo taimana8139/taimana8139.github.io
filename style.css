@@ -1,25 +1,21 @@
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-  </head>
-  
-  <body>
-    <div id="heuu">
-      heuu
-    </div>
-    
-    <div id="undertaker">
-      undertaker
-    </div>
+#a {
+  background:maroon;
+  color:blue;
+}
 
-    
-    <div id="urdad">
-      ur dad
-    </div>
-    
-    <div id="f2g">
-      f2g
-    </div>
-    
-  </body>
-</html>
+}
+
+#b {
+  background:blue;
+  color:maroon;
+}
+
+#c {
+  background:maroon;
+  color:blue;
+}
+
+#d {
+  background:blue;
+  color:maroon;
+}
