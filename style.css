@@ -1,31 +1,38 @@
+
 h1  {
   background-color:gray;
   border:solid black;
   margin:0;
+ 
   padding:1.75%;
   text-align:center;
   float:inherit;
+
   color:white;
 }
+
 ul  {
   list-style-type: none;
-  padding: 22;
-  margin: 45;
+  padding: 0;
+  margin: 0;
   overflow: hidden;
   background-color: navy;
 }
+
 li  {
   font-family: Helvetica;
 }
+
 li a {
   list-style: none;
   margin: 01%;
   background-color: grey;
+ 
   display: block;
-  padding: 5px 55px;
+  padding: 0px 0px;
   color: white;
 }
 li a:hover {
   background:red;
+  color:navy;
 }
-
