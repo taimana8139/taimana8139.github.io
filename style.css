@@ -1,14 +1,14 @@
 
 h1  {
-  background-color:#33DDFF;
-  border:solid black;
-  margin:0;
+  background-color: #33DDFF;
+  border: solid black;
+  margin: 0;
  
-  padding:1.75%;
-  text-align:center;
-  float:inherit;
+  padding: 1.75%;
+  text-align: center;
+  float: inherit;
 
-  color:#B3FFCC;
+  color: #B3FFCC;
 }
 
 ul  {
@@ -16,7 +16,7 @@ ul  {
   padding: 0;
   margin: 0;
   overflow: hidden;
-  background-color: navy;
+  background-color: #732FC0;
 }
 
 li  {
@@ -26,13 +26,13 @@ li  {
 li a {
   list-style: none;
   margin: 01%;
-  background-color: grey;
+  background-color: #2FC0A6;
  
   display: block;
   padding: 0px 0px;
-  color: white;
+  color: #FFFFFF;
 }
 li a:hover {
-  background:red;
-  color:navy;
+  background:#C40D0D;
+  color: #732FC0;
 }
